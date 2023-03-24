@@ -1,4 +1,4 @@
-import SinglyLinkedList from "@code/SinglyLinkedList";
+import SinglyLinkedList from "day2/SinglyLinkedList";
 import { test_list } from "./ListTest";
 
 test("linked-list", function () {

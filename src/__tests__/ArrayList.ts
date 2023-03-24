@@ -1,4 +1,4 @@
-import ArrayList from "@code/ArrayList";
+import ArrayList from "day2/ArrayList";
 import { test_list } from "./ListTest";
 
 test("array-list", function () {
