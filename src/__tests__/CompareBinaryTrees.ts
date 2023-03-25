@@ -1,4 +1,4 @@
-import compare from "day2/CompareBinaryTrees";
+import compare from "../day2/CompareBinaryTrees";
 import { tree, tree2 } from "./tree";
 
 test("Compare Binary Trees", function () {
