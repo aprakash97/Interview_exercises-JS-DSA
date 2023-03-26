@@ -1,4 +1,4 @@
-import two_crystal_balls from "day2/TwoCrystalBalls";
+import two_crystal_balls from "../day2/TwoCrystalBalls";
 
 test("two crystal balls", function () {
     let idx = Math.floor(Math.random() * 10000);
